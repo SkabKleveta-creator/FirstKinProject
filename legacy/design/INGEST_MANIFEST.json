@@ -1,0 +1,142 @@
+[
+  {
+    "file": "GREAT_KILL.md",
+    "bytes": 3745,
+    "sha256": "9cfcfcb7a423bf9a13712496a2b812ef3ef28ab37df506802b167d5cb7efb1e0"
+  },
+  {
+    "file": "MECHANICS_MATRIX.md",
+    "bytes": 2485,
+    "sha256": "af81033a24ae1bfbd29689413a19b87f9e9f10e38ec65bffc0e57f55181b3429"
+  },
+  {
+    "file": "PILLARS.md",
+    "bytes": 2788,
+    "sha256": "312822fbeafb8ad1bdd3b750caa93707a602afd695b6124392a4ce9e2fa8a6ef"
+  },
+  {
+    "file": "README(3).md",
+    "bytes": 3585,
+    "sha256": "251ca6f5b1a4b7f890f4e9c415627d256c9b0d6e8998be5813c5b6ada12b34d1"
+  },
+  {
+    "file": "ROADMAP.md",
+    "bytes": 6320,
+    "sha256": "8eec06d17cb8c8f0a8db09864d23107c3e1df0c85403c85bbc9d389c87a4d981"
+  },
+  {
+    "file": "SHARED_MODEL.md",
+    "bytes": 4262,
+    "sha256": "ee88e79acd7fc2434b78d029e1cdef030da2970515e25582ff35dbf9c3dd8018"
+  },
+  {
+    "file": "TEACH.md",
+    "bytes": 3265,
+    "sha256": "c7bb6a4ccb8f75649266468e8897de1e8179cbb12ef6dca679261bee536af92a"
+  },
+  {
+    "file": "THREE_NIGHTS.md",
+    "bytes": 3671,
+    "sha256": "0196c7c51e9ea696d2dfc22a4fe3266043ef429150398c0ed3569fb17996ed47"
+  },
+  {
+    "file": "UNIFICATION.md",
+    "bytes": 5734,
+    "sha256": "573cc13e2217092faff1fe27de2f5b6fad039a9be12fd84dd801cfb29e0a183c"
+  },
+  {
+    "file": "WORLD_BIBLE.md",
+    "bytes": 3877,
+    "sha256": "76f0cf478c6c6b4e4a502cf5cf76c96fc9c28888e38a927992c4c6512951a325"
+  },
+  {
+    "file": "_test.mjs",
+    "bytes": 3004,
+    "sha256": "4f8a56003bd8d66de74c61f0d3376e8957fce0bf7163ca87b71c46592caca9d8"
+  },
+  {
+    "file": "canvas.js",
+    "bytes": 1208,
+    "sha256": "adac3f491198cbd610dd624696b42dd2d1fba26a175d38cea3ec205b4dbf0a86"
+  },
+  {
+    "file": "cave teach p0d(1).html",
+    "bytes": 49409,
+    "sha256": "b9386f5c31061c879617675ca31e7c330f6b783f5feed282a4ed8fde62c797a7"
+  },
+  {
+    "file": "cave_teach_p0c_10_day_tools_hunt_fixed(1).html",
+    "bytes": 39117,
+    "sha256": "c4c89eaae4a45c4182776765e6dedc4889c284627865f80dfcb7ca52c98931be"
+  },
+  {
+    "file": "characters(1).json",
+    "bytes": 2393,
+    "sha256": "3b5b3df3b113252411895a7777d184a28ff25b6b9836e3c6e97699a5bc04308b"
+  },
+  {
+    "file": "characters.json",
+    "bytes": 2393,
+    "sha256": "3b5b3df3b113252411895a7777d184a28ff25b6b9836e3c6e97699a5bc04308b"
+  },
+  {
+    "file": "flat.js",
+    "bytes": 1318,
+    "sha256": "9120cecc2aa4d2948a23a2b7781b3e97ecc98b3405558344c954bf91dac83869"
+  },
+  {
+    "file": "great kill.html",
+    "bytes": 32501,
+    "sha256": "d91da04061d077e82d648c6980ea3ebddf7a2349d86d834c8e9a60a3ec2cf4de"
+  },
+  {
+    "file": "grid.js",
+    "bytes": 4635,
+    "sha256": "f4c74de7d4ef2d49104986a3da386a0d7c57e350ef35b772be349a2055dc9a08"
+  },
+  {
+    "file": "iso.js",
+    "bytes": 1334,
+    "sha256": "0afa4964a0a6fe3d146a88df5dd7a68b66cb3be63e171be9eb9906d09a259ed8"
+  },
+  {
+    "file": "recipes(1).json",
+    "bytes": 1367,
+    "sha256": "2c08be3fda5544b1528759f7c84f11710fc56ab9be03f44dd36a2b2cb35cad9d"
+  },
+  {
+    "file": "recipes.json",
+    "bytes": 1367,
+    "sha256": "2c08be3fda5544b1528759f7c84f11710fc56ab9be03f44dd36a2b2cb35cad9d"
+  },
+  {
+    "file": "resources(1).json",
+    "bytes": 1668,
+    "sha256": "da878d4c3490e0bb01fa084ea1c5c8a42d1571add98bcbf3e74d2788c40ef21b"
+  },
+  {
+    "file": "resources.json",
+    "bytes": 1668,
+    "sha256": "da878d4c3490e0bb01fa084ea1c5c8a42d1571add98bcbf3e74d2788c40ef21b"
+  },
+  {
+    "file": "skills(1).json",
+    "bytes": 1232,
+    "sha256": "1b2a4300b06af18f2a64301a52eff19f16e5437f9dc4ecb2a22e7d8fa62cce17"
+  },
+  {
+    "file": "skills.json",
+    "bytes": 1232,
+    "sha256": "1b2a4300b06af18f2a64301a52eff19f16e5437f9dc4ecb2a22e7d8fa62cce17"
+  },
+  {
+    "file": "three nights.html",
+    "bytes": 59889,
+    "sha256": "de59be68bb63994a824636e57dbfcb8763ea4555817ec8d0ee59b7068c91d87e"
+  },
+  {
+    "file": "tiles.js",
+    "bytes": 1874,
+    "sha256": "be2fd3f5f6813030b9e1f7b844f1fb71b99634bdf3bb5beecaad4d519ffe3188"
+  }
+]

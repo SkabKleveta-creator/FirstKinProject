@@ -66,7 +66,7 @@ save. Export/import JSON to move a campaign between browsers or devices.
 If local storage is blocked, use Export save.
 
 This rebuild uses save version 6. Earlier TEACH/P0-E saves are not compatible.
-The previous builds remain in the source archive delivered in the conversation.
+The previous builds and original source material remain in `legacy/`.
 
 Run `npm run campaign` to generate `qa/campaign-save.json`, an optional completed test campaign earned from
 normal starting resources. Import it to inspect a developed village. It
@@ -85,7 +85,7 @@ replaces the current campaign, so export your own family first.
 | `assets/` | Human character artwork embedded by the builder |
 | `data/lore.json` | Empty, attributed lore-entry schema for future world chapters |
 | `design/FIRST_KIN_RELEASE.md` | Current review, decisions and implementation limits |
-| Earlier prototypes | Preserved in the separately delivered project archive |
+| `legacy/` | Original prototypes, design documents, canonical data tables and upload checksums |
 | `tests/` | Simulation, progression, controller integration and optional render checks |
 | `qa/` | Canvas renders, campaign evidence and the optional developed-village save |
 

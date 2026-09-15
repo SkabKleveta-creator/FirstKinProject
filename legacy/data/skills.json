@@ -1,0 +1,21 @@
+{
+  "model": {
+    "head": "what you know. grows by watch + teach.",
+    "hand": "what the body can do. grows by try + do.",
+    "note": "actions gate on hand + tool. full head, empty hand is a deliberate trap."
+  },
+  "skills": {
+    "fire":  { "label": "FIRE",  "teachWords": "WATCH. FIRE COME SLOW.", "gate": "hand.fire + tool_fire >= 2" },
+    "root":  { "label": "ROOT",  "teachWords": "ROOT HIDE LOW.",        "gate": "hand.root > 0 && tool_dig > 0" },
+    "green": { "label": "GREEN", "teachWords": "GREEN GROW HERE.",      "gate": "none (basket boosts)" },
+    "fish":  { "label": "FISH",  "teachWords": "WATER HIDE FISH.",      "gate": "none (basket boosts, timing in field)" },
+    "hunt":  { "label": "HUNT",  "teachWords": "TRACK TALK SOFT.",      "gate": "tool_spear for reliable kill; big hunt needs 2 spears + 2 hunters" },
+    "craft": { "label": "CRAFT", "teachWords": "STONE BITE WOOD.",      "gate": "recipe materials" },
+    "warm":  { "label": "WARM",  "teachWords": "HIDE MAKE WARM.",       "gate": "recipe: hide + fiber" }
+  },
+  "tribeMemory": {
+    "trust":  "grows when people learn from each other",
+    "skill":  "grows on any successful craft/try/teach",
+    "spirit": "tribe morale and cohesion"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "needs": {
+    "meat":  { "icon": "🍖", "label": "MEAT",  "scope": "tribe", "note": "food from hunt/fish, carried home" },
+    "green": { "icon": "🫛", "label": "GREEN", "scope": "tribe", "note": "food from gathering" },
+    "root":  { "icon": "🫚", "label": "ROOT",  "scope": "tribe", "note": "food from digging, needs tool_dig" },
+    "water": { "icon": "💧", "label": "WATER", "scope": "tribe", "note": "from the river" },
+    "fire":  { "icon": "🔥", "label": "FIRE",  "scope": "camp",  "note": "hearth level, drops nightly, feeds on wood" }
+  },
+  "personal": {
+    "belly": { "icon": "🐟", "label": "BELLY", "scope": "actor", "note": "an individual's own food while in the field (fish). distinct from tribe meat." }
+  },
+  "stuff": {
+    "wood":        { "icon": "🪵", "label": "WOOD",   "kind": "raw" },
+    "stone":       { "icon": "🪨", "label": "STONE",  "kind": "raw" },
+    "bone":        { "icon": "🦴", "label": "BONE",   "kind": "raw" },
+    "fiber":       { "icon": "🧵", "label": "FIBER",  "kind": "raw" },
+    "hide":        { "icon": "🦌", "label": "HIDE",   "kind": "raw" },
+    "tool_dig":    { "icon": "🪏", "label": "DIG",    "kind": "tool", "effect": "digging root yields" },
+    "tool_spear":  { "icon": "🏹", "label": "SPEAR",  "kind": "tool", "effect": "hunt can succeed; big hunt possible" },
+    "tool_basket": { "icon": "🧺", "label": "BASKET", "kind": "tool", "effect": "+1 gather and fish" },
+    "tool_warm":   { "icon": "🧥", "label": "WARM",   "kind": "tool", "effect": "cold bites less" },
+    "tool_fire":   { "icon": "✨", "label": "SPARK",  "kind": "tool", "effect": "helps start fire" }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "note": "canonical tribe from TEACH. reuse ids/icons/names everywhere.",
+  "tribe": {
+    "oldM":   { "icon": "👴", "name": "ORR",  "want": "FIRE. ROOT. TEACH BEFORE GONE.",     "know": ["fire","root"],        "hand": { "fire": 3, "root": 2, "craft": 1 },            "care": ["teach_young"],   "tired": 70, "sick": true },
+    "oldF":   { "icon": "👵", "name": "MA",   "want": "WARM. SEAM. KEEP SMALL ONES LIVE.",  "know": ["warm","green","craft"],"hand": { "warm": 3, "green": 2, "craft": 2 },          "care": ["protect_young"], "tired": 62, "sick": false },
+    "strongM":{ "icon": "🧔", "name": "GROK", "want": "MEAT. HUNT. OLD SAFE.",              "know": ["fish","hunt","carry"], "hand": { "fish": 3, "hunt": 2, "craft": 1 },           "care": ["feed_tribe","old_safe"], "tired": 35, "sick": false },
+    "strongF":{ "icon": "👩", "name": "NANA", "want": "FIRE. TOOL. TRIBE SEEN.",            "know": ["fire","craft","green"],"hand": { "fire": 2, "green": 2, "craft": 2, "hunt": 1 }, "care": ["fire_live","be_seen"], "tired": 32, "sick": false },
+    "youngM": { "icon": "👦", "name": "LUG",  "want": "LEARN. TRY. MAKE ORR PROUD.",        "know": [],                     "hand": { "fire": 0, "root": 0, "hunt": 0, "craft": 0 }, "care": ["make_orr_proud"], "tired": 10, "sick": false },
+    "youngF": { "icon": "👧", "name": "EEKA", "want": "LEARN. MAKE WARM. MAKE MA SMILE.",   "know": [],                     "hand": { "warm": 0, "green": 0, "craft": 0, "fire": 0 },"care": ["make_ma_smile"], "tired": 10, "sick": false }
+  },
+  "huntRoles": {
+    "_comment": "GREAT KILL uses jobs, not named people. map onto tribe when unifying.",
+    "BIRDDOG":  { "icon": "🎯", "job": "MARK", "maps_to_suggestion": "youngM/youngF (light, hides in grass)", "line": "TRACK GO THIS WAY." },
+    "LONGARM":  { "icon": "🏹", "job": "BOW",  "maps_to_suggestion": "strongF",                               "line": "FAR IS SAFE. FAR IS SLOW." },
+    "SPEARWALL":{ "icon": "🔱", "job": "HOLD", "maps_to_suggestion": "strongM",                               "line": "IT COME. I STAND." },
+    "BREAKER":  { "icon": "🪃", "job": "END",  "maps_to_suggestion": "strongM (GROK)",                        "line": "WHEN IT SLOW, I END IT." },
+    "KEEPER":   { "icon": "🔥", "job": "FIRE", "maps_to_suggestion": "oldM/oldF (steers, low risk)",          "line": "BEAST NO LIKE FIRE." }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "note": "each craft eats a whole action slot plus materials. from TEACH RECIPES.",
+  "recipes": {
+    "craft_dig":    { "out": "tool_dig",    "cost": { "wood": 1, "stone": 1 }, "alt": { "wood": 1, "bone": 1 }, "msg": "MAKE 🪏. STONE BITE WOOD. TOOL BORN." },
+    "craft_spear":  { "out": "tool_spear",  "cost": { "wood": 1, "stone": 1, "fiber": 1 },                      "msg": "MAKE 🏹. HUNT HAND LONG." },
+    "craft_basket": { "out": "tool_basket", "cost": { "fiber": 2 },                                             "msg": "MAKE 🧺. MANY GREEN COME HOME." },
+    "craft_warm":   { "out": "tool_warm",   "cost": { "hide": 1, "fiber": 1 },                                  "msg": "MAKE 🧥. COLD BITE LESS." }
+  },
+  "futureRecipes": {
+    "_comment": "staged for the ROADMAP tool/weapon tiers; not yet in any prototype",
+    "craft_axe":    { "out": "tool_axe",    "cost": { "wood": 1, "stone": 2, "fiber": 1 }, "msg": "MAKE 🪓. TREE FALL FAST." },
+    "craft_hook":   { "out": "tool_hook",   "cost": { "bone": 1, "fiber": 1 },             "msg": "MAKE HOOK. FISH HOLD TIGHT." },
+    "craft_bow":    { "out": "tool_bow",    "cost": { "wood": 2, "fiber": 2 },             "msg": "MAKE BOW. MEAT FROM FAR." },
+    "craft_hoe":    { "out": "tool_hoe",    "cost": { "wood": 1, "stone": 1, "bone": 1 },  "msg": "MAKE HOE. GROUND OPEN. SEED GO IN." }
+  }
+}
